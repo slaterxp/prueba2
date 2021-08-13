@@ -13,11 +13,6 @@ width: 130px;}
     text-align: right;
 }
 
-#teno{
-
-    text-align: center;
-}
-
 .link{
     font-style: italic;
     color:white;
@@ -37,3 +32,22 @@ font-style: oblique;
 font-variant: small-caps;
     font-size: 40px;
 }
+
+.image1{
+
+    margin: 7%;
+width: 65px;
+height: 65px;
+
+
+
+bottom: 10px;
+overflow:hidden;
+}
+
+.image1 img {
+    text-align: ;
+    width: 100%;
+    height: auto;
+    display: block;
+    }
