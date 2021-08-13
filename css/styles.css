@@ -1,5 +1,5 @@
 body{
-    background-color: aquamarine;
+    background-color:lightslategray;
     ;
 }
 
@@ -13,7 +13,27 @@ width: 130px;}
     text-align: right;
 }
 
-#tenologo{
+#teno{
 
     text-align: center;
+}
+
+.link{
+    font-style: italic;
+    color:white;
+    border-bottom-color:black;
+         font-size: 20px;
+         font:oblique;
+}
+.titulomain{
+background-color:midnightblue;
+    text-align: center;
+    font-size: 70px;
+        color:mistyrose;
+        
+}
+.titles{
+font-style: oblique;
+font-variant: small-caps;
+    font-size: 40px;
 }
