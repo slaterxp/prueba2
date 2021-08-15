@@ -15,7 +15,9 @@ width: 130px;}
 
 .link{
     text-align: center;
-    font-style: italic;
+    border-radius: 30px;
+    
+    font-style:oblique
     color:white;
     border-bottom-color:black;
          font-size: 20px;
@@ -26,10 +28,14 @@ width: 130px;}
         
 }
 .titulomain{
-background-color:midnightblue;
+    background-color: blue;
+margin-left: 20px;
+margin-right: 20px;
+border-radius: 200px;
     text-align: center;
     font-size: 70px;
         color:mistyrose;
+
         
 }
 .titles{
@@ -38,13 +44,15 @@ font-style: oblique;
 font-variant: small-caps;
     font-size: 50px;
     font-weight: 900;
+    border-radius: 200px;
 }
 
 .titles2{
     font-style:italic;
     font-size: 10mm;
-
-    font-weight: 300;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-right:  670px;
     color:white;
     font:caption;
     background-color: rgb(124, 13, 13);
