@@ -26,6 +26,16 @@ border: 2px black solid;
 border-collapse: collapse;
 }
 
+th, td {
+
+    padding: 8px;
+}
+
+th{
+
+    text-align: left;
+}
+
 .link{
 
     display: inline-block;
