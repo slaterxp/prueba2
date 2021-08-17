@@ -35,7 +35,15 @@ th{
 
     text-align: left;
 }
+.caja{
+    background-color: yellowgreen;
+    
+    width: 100px;
+    height: 100px;
+    box-shadow:  12px 21px rgb(0 0 0 / 0.5) ;
+    
 
+}
 .link{
 
     display: inline-block;
@@ -102,3 +110,7 @@ font-variant: small-caps;
 
     }
    
+    .tenologgo{
+
+        pos
+    }
