@@ -1,16 +1,24 @@
 body{
-    background-color:lightslategray;
+    background-color:rgb(204, 189, 172);
     ;
 }
 
 img{
     
     max-width: 100%;
-width: 130px;}
+    min-width: 20%;
+    width: 130px;}
 
 #adres{
 
     text-align: right;
+}
+
+.navigator{
+
+    background-color: rgb(12, 192, 12);
+    max-width: 100%;
+    min-width: 100%;
 }
 
 .link{
@@ -22,7 +30,7 @@ width: 130px;}
     text-align: center;
     border-radius: 30px;
     
-    font-style:oblique
+    font-style:oblique;
     color:white;
     border-bottom-color:black;
          font-size: 20px;
@@ -38,7 +46,7 @@ width: 130px;}
 /* padding-top: 0.1px; */
 /*border-top: 0.1px solid lightcoral;*/
 
-    background-color: blue;
+    background-color: rgb(25, 175, 25);
 margin-left: 20px;
 margin-right: 20px;
 border-radius: 200px;
