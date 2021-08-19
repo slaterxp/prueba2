@@ -1,3 +1,9 @@
+@font-face {
+    font-family: "nana";
+    src: url("../assets/MonsieurLaDoulaise-Regular.ttf");
+}
+
+
 body{
     background-color:rgb(204, 189, 172);
     ;
@@ -88,6 +94,10 @@ font-variant: small-caps;
     border-radius: 200px;
 }
 
+.cursi{
+font-size: 38px;
+    font-family: "nana" ;
+}
 .titles2{
    
     font-style:italic;
